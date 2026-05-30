@@ -57,9 +57,9 @@ My work sits at the intersection of:
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Wiwi-Creator&theme=github" alt="Wiwi's GitHub stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Wiwi-Creator&theme=github" alt="Wiwi's GitHub activity summary" />
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Wiwi-Creator&theme=github" alt="Top languages by repository" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Wiwi-Creator&theme=github&utcOffset=8" alt="Commit activity by time" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Wiwi-Creator&theme=github" alt="Top languages by commit" />
 
 </div>
