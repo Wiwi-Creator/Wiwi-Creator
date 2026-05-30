@@ -4,7 +4,7 @@
 
 Data Engineering | MLOps | LLMOps
 
-I build data and machine learning systems that are reliable, observable, and practical to operate.
+Focusing on building Data & AI Platform that are reliable, observable, and practical to operate.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-kuo--wiwi-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kuo-wiwi/)
 [![GitHub](https://img.shields.io/badge/GitHub-Wiwi--Creator-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Wiwi-Creator)
@@ -53,8 +53,6 @@ My work sits at the intersection of:
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
-`Airflow` `MLflow` `Observability` `Monitoring` `Feedback Loops`
-
 ## GitHub
 
 <div align="center">
@@ -71,6 +69,7 @@ My work sits at the intersection of:
 I am always happy to connect around data platforms, MLOps, AI agents, cloud architecture, or practical engineering systems.
 
 - LinkedIn: [kuo-wiwi](https://www.linkedin.com/in/kuo-wiwi/)
+- Medium: [kuo-wiwi](https://medium.com/@w22151500)
 - GitHub: [Wiwi-Creator](https://github.com/Wiwi-Creator)
 
 ---
