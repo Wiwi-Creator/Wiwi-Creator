@@ -29,13 +29,29 @@ My work sits at the intersection of:
 
 **Data & AI**
 
-`Python` `SQL` `RAG` `Pytorch` `Ray` `vLLM` `LangGraph` `DSPy`
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Ray](https://img.shields.io/badge/Ray-028CF0?style=flat-square&logo=ray&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 
 **Cloud & Platform**
 
-`Google Cloud` `Azure` `AWS` `Databricks` `Kubernetes` `Microservices` `CICD`
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white)
 
 **Workflow & Orchestration**
+
+![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
 `Airflow` `MLflow` `Observability` `Monitoring` `Feedback Loops`
 
@@ -43,9 +59,10 @@ My work sits at the intersection of:
 
 <div align="center">
 
-![Wiwi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wiwi-Creator&show_icons=true&hide_border=true&theme=default)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Wiwi-Creator&theme=github" alt="Wiwi's GitHub stats" />
 
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Wiwi-Creator&layout=compact&hide_border=true&theme=default)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Wiwi-Creator&theme=github" alt="Top languages by repository" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Wiwi-Creator&theme=github" alt="Top languages by commit" />
 
 </div>
 
